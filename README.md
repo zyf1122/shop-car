@@ -6,4 +6,4 @@ vue-购物车
 （请用chrome手机模式预览）
 
 移动端扫描下方二维码
-![二维码](http://ohpveu9d8.bkt.clouddn.com/shopcar.png)
+  ![二维码](http://ohpveu9d8.bkt.clouddn.com/shopcar.jpg)
